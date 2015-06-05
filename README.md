@@ -1,4 +1,4 @@
-# FizzBun in Rust
+# FizzBuzz in Rust
 FizzBuzz written in Rust
 
 1. rustc fizz_buzz.rs
